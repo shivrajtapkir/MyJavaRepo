@@ -3,3 +3,7 @@ This is the first statement
 change 1
 
 change 2
+
+bug branch
+
+change 1
